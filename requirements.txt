@@ -12,3 +12,9 @@ cuda-python
 onnx== 1.22.0
 onnxruntime==1.19.2
 onnxruntime-gpu
+tf2onnx
+numpy 
+opencv-python 
+tf2onnx 
+keras 
+tensorflow
